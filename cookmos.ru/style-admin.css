@@ -1,0 +1,57 @@
+.admin, .nav-header {
+	content: "\f013";
+}
+.nav-first {
+	content: "\f0db";
+}
+.nav-second {
+	content: "\f0c0";
+}
+.nav-third {
+	content: "\f073";
+}
+#header {
+	background: #333;
+	color: #fff;
+	padding-bottom: 10px;
+	padding-top: 15px;
+	margin-bottom: 15px;
+}
+#header h1 {
+	color: #fff;
+}
+.well {
+	height: 106px;
+	background: #C0C0C0;
+	padding-top: 10px;
+}
+#main {
+	margin-top: 30px;
+}
+.timetable-content {
+	margin-top: 45px;
+	margin-bottom: 100px;
+}
+.timetable-name {
+	margin-bottom: 30px;
+}
+.timetable-highlight {
+	margin-bottom: 30px;
+}
+.pages-card {
+	margin-bottom: 100px;
+}
+.col-md-4 a {
+	color: #000;
+}
+.col-md-4 a:hover{
+	text-decoration: none;
+	color: #007bff;
+}
+.col-md-10 a:hover  {
+	text-decoration: none;
+}
+.time-pic{
+	height: 900px;
+	width: 500px;
+}

@@ -1,0 +1,55 @@
+@media screen and (max-width: 1180px) {
+	.nav-link {
+		font-size: 97%;
+	}
+}
+@media screen and (max-width: 1060px) {
+	.nav-link {
+		font-size: 80%;
+	}
+}
+@media screen and (max-width: 992px) {
+	html {
+		font-size: 90%;
+	}
+	.menu-pic, .dishes-pic {
+		width: 95%;
+	}
+	.card-journal {
+		margin: 1em auto;
+		width: 85%;
+	}
+}
+@media screen and (max-width: 896px) {
+	html {
+		font-size: 75%;
+	}
+	.grid__item {
+		width: 100%;
+	}
+	.card-journal {
+		width: 70%;
+	}
+	.menu-pic, .dishes-pic, .map {
+		width: 95%;
+	}
+	.col-sm-4 {
+		flex: none;
+		max-width: 100%;
+	}
+}
+@media screen and (max-width: 600px) {
+	html {
+		font-size: 70%;
+	}
+	.grid__item {
+		width: 100%;
+	}
+	.card-journal {
+		width: 70%;
+		margin: 1em auto;
+	}
+	.map {
+		width: 80%;
+	}
+}

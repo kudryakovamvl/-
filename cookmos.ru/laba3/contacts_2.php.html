@@ -1,0 +1,6 @@
+<?php
+include 'rb.php';// подключаем содержимое файла rb.php
+$CM='./contacts.html';
+$result= str_replace($search, $replace, file_get_contents($CM));
+echo $result;
+?>
